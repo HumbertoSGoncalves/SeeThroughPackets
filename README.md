@@ -1,7 +1,7 @@
 # SeeThroughPackets
 Enhanced PacketWorx with Explainable AI (SHAP &amp; LIME) for interpretable intrusion detection. Uses CIC-IDS2017-based ML models to classify and explain packet-level threats. Built for cybersecurity analysts and product managers seeking transparency in detection logic.
 
-# PacketWorx
+# MyPacketWorx
 
 PacketWorx is a Python-based AI assistant for Wireshark, tailored for packet-level threat analysis using machine learning and explainable AI techniques. Originally inspired by [PacketWorx](https://github.com/FreeSoftWorks/PacketWorx), this enhanced version integrates multiple ML classifiers, global and local explainability using SHAP and LIME, and interactive summaries to support product managers and security engineers in understanding, auditing, and showcasing packet-level intrusion detection.
 
