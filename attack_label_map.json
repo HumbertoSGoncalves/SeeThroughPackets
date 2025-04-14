@@ -1,0 +1,1 @@
+{"10": "PortScan", "0": "BENIGN", "2": "DDoS", "4": "DoS Hulk", "5": "DoS Slowhttptest", "6": "DoS slowloris", "7": "FTP-Patator", "1": "Bot", "3": "DoS GoldenEye", "11": "SSH-Patator", "14": "Web Attack \ufffd XSS", "12": "Web Attack \ufffd Brute Force", "9": "Infiltration", "8": "Heartbleed", "13": "Web Attack \ufffd Sql Injection"}
